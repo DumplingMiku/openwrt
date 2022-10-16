@@ -12,3 +12,6 @@ openwrt x86/64
  - user root
  - no password
  - adgardhome [ip]:3000
+
+install docker
+https://zzzzbw.cn/article/26
